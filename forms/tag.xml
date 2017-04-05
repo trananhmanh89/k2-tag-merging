@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<field 
+		name="original_tags" 
+		type="k2tag" 
+		label="Original tags" 
+		multiple="true" />
+	<field 
+		name="target_tag" 
+		type="k2tag" 
+		label="Target tag" 
+		multiple="false">
+		<option value="">- Choose Tag -</option>
+	</field>
+</form>

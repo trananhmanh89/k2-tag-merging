@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system" method="upgrade">
+	<name>K2 Tag Merging</name>
+	<creationDate>March 2017</creationDate>
+	<author>MrMeo</author>
+	<authorUrl>http://tranmeo.com</authorUrl>
+	<copyright>Mr. Meo</copyright>
+	<license>MIT</license>
+	<version>1.0.0</version>
+	<description>K2 Tag Merging</description>
+	<files>
+		<filename plugin="k2tagmerging">k2tagmerging.php</filename>
+		<filename>script.php</filename>
+		<folder>forms</folder>
+		<folder>tmpl</folder>
+		<folder>toolbars</folder>
+		<folder>fields</folder>
+	</files>
+ <scriptfile>script.php</scriptfile>
+</extension>
